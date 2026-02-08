@@ -8,7 +8,7 @@ Robot framework, Visual Studio Code, BDD, CI/CD and anything related to software
 
 - 🌱 I’m currently learning ...
 
-How to use semantic highlighting in VS Code, perhaps I can get BDD syntax highligting to work in Robot Framework Language Server
+Different ways to learn AI tools to improve software testing
 
 - 💞️ I’m looking to collaborate on ...
 
